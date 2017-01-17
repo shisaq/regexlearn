@@ -54,5 +54,4 @@ str.match(reg3); // ["aa"]
 // \B matches the unboundry of a string
 
 var str = "hsadfksdhf3ahjka1akhf7ajghks989";
-var reg = /d/g;
 console.log(str.match(reg));
